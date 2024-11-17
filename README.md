@@ -1,7 +1,7 @@
 <div align="center">
 
 # About Me:
-I am a junior full-stack developer trying to learn it all.<br><br>Currently learning: React & TypeScript
+I am a junior full-stack developer trying to learn it all.<br><br>Currently learning: PostgreSQL
 
 
 ## 🌐 Socials:
@@ -14,6 +14,8 @@ I am a junior full-stack developer trying to learn it all.<br><br>Currently lear
 # 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Practical-Software&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+  <h3>公平欲しい</h3>
 
 </div>
 
