@@ -1,7 +1,10 @@
-<div align="">
+<div align="center">
 
 # About Me:
-I am a junior full-stack developer trying to learn it all.<br><br>Currently learning: Next.js
+I am a junior full-stack developer trying to learn it all.
+
+### Currently Learning....
+#### Next.js
 
 
 ## 🌐 Socials:
@@ -11,7 +14,7 @@ I am a junior full-stack developer trying to learn it all.<br><br>Currently lear
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 ## Frameworks/Libraries
 
@@ -36,6 +39,8 @@ I am a junior full-stack developer trying to learn it all.<br><br>Currently lear
 # 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Practical-Software&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=practical-software&theme=tokyonight&hide_border=false)<br/>
 
   <h2>公平欲しい</h2>
 
