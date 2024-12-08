@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # About Me:
 I am a junior full-stack developer trying to learn it all.<br><br>Currently learning: Next.js
